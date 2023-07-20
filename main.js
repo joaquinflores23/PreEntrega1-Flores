@@ -1,4 +1,3 @@
-// Pregunta email usuario
 
 const telUsuario = Number(prompt('Hola, ingresa telefono celular'));
 
